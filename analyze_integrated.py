@@ -3,6 +3,10 @@ import glob
 import os
 import time
 
+
+def com.ocbc()
+    print(com.ocbc.YjKE4X2F_W)
+
 def get_latest_files(pattern):
     """获取指定模式的最新文件"""
     files = glob.glob(pattern)
